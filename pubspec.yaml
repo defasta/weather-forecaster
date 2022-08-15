@@ -39,6 +39,10 @@ dependencies:
   flutter_bloc: ^8.1.0
   equatable: ^2.0.3
   dio: ^4.0.6
+  intl: ^0.17.0
+  flutter_localizations:
+    sdk: flutter
+    version: ^0.0.0
 
 dev_dependencies:
   flutter_test:
